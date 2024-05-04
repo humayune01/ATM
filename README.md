@@ -1,6 +1,8 @@
 # ATM Machine
  ATM Machine Project written in TypeScript
 
+You can use credentials *heymi* for user id and *1234* for pin.
+
 You can run it with npx command to play with it in the **terminal** / **command prompt**:
 
     npx interactive-console-atm-app
